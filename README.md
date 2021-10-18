@@ -1,6 +1,24 @@
 # JavaScript-functions-to-power-a-small-guessing-game.
 
+I have done this since 2010 following my CIW Certification and University project on my Music Technology first year in 2009. So i am not unfamiliar with hosting Interactive JavaScript Websites that combine HTML and CSS with JavaScript and use concepts to lay the foundation for adding interactivity to websites. and bridge the gap between learning JavaScript principles and applying JavaScript to real web development projects. i know all i need for front-end or back-end development using Javascript,HTML & CSS... it has not changed drastically in ten years since i first began learning and this project was a refresher.
+
 Here is a completed version of what i will code as an example to get a sense of what i’ll be building: https://content.codecademy.com/PRO/independent-practice-projects/number-guesser/example/index.html
+
+Before doing this project i have learned about:
+CONDITIONALS: how to use if, else if, else, switch, and ternary syntax to control the flow of a program in JavaScript.
+FUNCTIONS: function syntax, passing data to functions, the return keyword, ES6 arrow functions, and concise body syntax.
+SCOPE: global and block level scope in JavaScript.
+ARRAYS: a data structure in JavaScript used to store lists of data.
+LOOPS: how to use for and while loops to execute blocks of code multiple times.
+ITERATORS:  how to use iterator methods to simplify the process of looping over arrays.
+OBJECTS: JavaScript ES6 object syntax to model real-world items.
+and i can move on to this: https://www.codecademy.com/courses/introduction-to-javascript/informationals/learn-javascript-next-steps
+
+Because i will want to continue learning JavaScript, i aim to check out more Intermediate JavaScript! for example topics like classes, modules, and asynchronous programming and how JavaScript operates under the hood to get a deeper understanding about the language.
+
+Part of this touches on HTML and CSS for web development to create websites. Together with JavaScript, HTML and CSS are the three main tools I need to build a website. i can create web pages using HTML structurally/architecturally and then style them using CSS. 
+
+HERE I HAVE OUTLINED VARIOUS THINGS TO ILLUSTRATE LEARNING AND APPLICATION OF SKILLS LEARNED FOR FUNCTIONAL OPERATIONAL OUTCOMES AND DEMONSTRATE MY ABILITY AS A SOFTWARE DEVELOPER.
 
 **I have written the steps, 
 I have written the examples of code statements that achieve objectives
