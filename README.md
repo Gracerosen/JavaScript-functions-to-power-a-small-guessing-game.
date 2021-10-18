@@ -1,6 +1,8 @@
 # JavaScript-functions-to-power-a-small-guessing-game.
 
-I have done this since 2010 following my CIW Certification and University project on my Music Technology first year in 2009. So i am not unfamiliar with hosting Interactive JavaScript Websites that combine HTML and CSS with JavaScript and use concepts to lay the foundation for adding interactivity to websites. and bridge the gap between learning JavaScript principles and applying JavaScript to real web development projects. i know all i need for front-end or back-end development using Javascript,HTML & CSS... it has not changed drastically in ten years since i first began learning and this project was a refresher.
+Here is some evidence i have of my projects in GitHub to share proof of my work with potential employers, and link it out on my CV.
+
+I have done Javascript, HTML, CSS and other development languages since 2010 following my CIW Certification and University project on my Music Technology first year in 2009. I used the skills a bit at work too since then, so i am not unfamiliar with hosting Interactive JavaScript Websites that combine HTML and CSS with JavaScript and use concepts to lay the foundation for adding interactivity to websites and bridge the gap into real web development projects so tha i know all i need for front-end or back-end development using Javascript,HTML & CSS... it has not changed drastically in ten years since i first began learning - this project was a refresher of thos skills as i went on to other work to learn about entrerprenurship, business, investment, care management and other things until coding became both popular and essential during the industrial revolution.
 
 Here is a completed version of what i will code as an example to get a sense of what i’ll be building: https://content.codecademy.com/PRO/independent-practice-projects/number-guesser/example/index.html
 
@@ -14,9 +16,11 @@ ITERATORS:  how to use iterator methods to simplify the process of looping over 
 OBJECTS: JavaScript ES6 object syntax to model real-world items.
 and i can move on to this: https://www.codecademy.com/courses/introduction-to-javascript/informationals/learn-javascript-next-steps
 
-Because i will want to continue learning JavaScript, i aim to check out more Intermediate JavaScript! for example topics like classes, modules, and asynchronous programming and how JavaScript operates under the hood to get a deeper understanding about the language.
+Because i will wanted to continue learning JavaScript, i checked out more Intermediate JavaScript for example topics like classes, modules, and asynchronous programming and how JavaScript operates under the hood to get a deeper understanding about the language.
 
 Part of this touches on HTML and CSS for web development to create websites. Together with JavaScript, HTML and CSS are the three main tools I need to build a website. i can create web pages using HTML structurally/architecturally and then style them using CSS. 
+
+https://en.wikipedia.org/wiki/Absolute_value#Real_numbers
 
 HERE I HAVE OUTLINED VARIOUS THINGS TO ILLUSTRATE LEARNING AND APPLICATION OF SKILLS LEARNED FOR FUNCTIONAL OPERATIONAL OUTCOMES AND DEMONSTRATE MY ABILITY AS A SOFTWARE DEVELOPER.
 
